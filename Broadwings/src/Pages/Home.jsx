@@ -6,6 +6,7 @@ import Help from '../Components/Help'
 import Reviews from '../Components/Reviews'
 import Newsletter from '../Components/Newsletter'
 import Footer from '../Components/Footer'
+import CardCarousel from '../Components/CardCarousel'
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
       <FeaturedServices/>
       <Help/>
       <Newsletter/>
+      <CardCarousel/>
       <Reviews/>
       <Footer/>
     </div>
