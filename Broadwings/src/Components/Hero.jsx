@@ -20,7 +20,7 @@ market & e-commerce solutions.  </p>
     <Button value="Explore More "/>
     <a href=""
     className='flex items-center justify-center gap-1 hover:gap-2 duration-150 transition-all'
-    ><p>Know More</p><FaArrowRight/></a>
+    ><p>Discover More</p><FaArrowRight/></a>
 </div>
 {/* statistics */}
             <div className='w-full md:w-[80%] hidden md:grid md:grid-cols-3 mt-5 gap-2'>
