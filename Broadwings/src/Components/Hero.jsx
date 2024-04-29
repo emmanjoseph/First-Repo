@@ -1,5 +1,4 @@
 import React from 'react'
-import HeroImg from'../assets/heroImg.jpg'
 import { Stats } from '../Utilities/Utilities'
 import {FaArrowRight} from 'react-icons/fa'
 import Button from './Button'
